@@ -17,3 +17,6 @@ Use OCR software (i.e. impira https://www.impira.com/product/technology) to auto
 
 Considerations:
 Only the registered owner who appears on the filed 990 can "claim" the funds from a crowdfunding campaign by requiring 2FA via the listed phone number (need 2FA provider).
+
+Similar Projects:
+The Giving Block: https://thegivingblock.com/services/accept-crypto-donations/
