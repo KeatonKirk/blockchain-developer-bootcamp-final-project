@@ -13,6 +13,7 @@ Tech Stack:
 https://projects.propublica.org/nonprofits/api
 Application will use the Pro Publica nonprofits API to get available public data on any registered non profit. Pro Publica API provides all info for registered non profits, including the 990 tax filing. The 990 includes legal owners of each registered non profit, as well as the owner's phone number.
 
+OPTIONAL FEATURE:
 Use OCR software (i.e. impira https://www.impira.com/product/technology) to automatically get owner info and phone number from filed 990.
 
 Considerations:
