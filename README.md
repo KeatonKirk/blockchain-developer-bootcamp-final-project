@@ -1,4 +1,7 @@
 # blockchain-developer-bootcamp-final-project
+WILL BE UPDATING PROJECT IDEA TO REFLECT NEW INVOLVEMENT IN ALGOVERA DAO
+
+
 Outline:
 My Final project will be a crowdfunding application that lets users independently and anonymously raise
 funds for registered nonprofit organizations.
