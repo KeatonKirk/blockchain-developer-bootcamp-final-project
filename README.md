@@ -1,7 +1,7 @@
 # blockchain-developer-bootcamp-final-project
 WILL BE UPDATING PROJECT IDEA TO REFLECT NEW INVOLVEMENT IN ALGOVERA DAO.
 
-TESTING WITH HITHESH
+TESTING WITH myself
 
 
 
